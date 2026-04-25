@@ -61,7 +61,6 @@ The provided source files are already copied into those paths.
 Run the full pipeline in one command:
 
 ```bash
-cd "/Users/sangramthakur/Downloads/Data Science/Assignment/whether_app/weather_project"
 python3 scripts/run_pipeline.py
 ```
 
